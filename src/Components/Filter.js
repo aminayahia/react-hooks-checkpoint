@@ -9,7 +9,7 @@ const Filter = (props) => {
         <input
           onChange={props.handleSearch}
           type="text"
-          placeholder="Hook a movie ..."
+          placeholder="Filter the movies ..."
         />
       </div>
       <div className="movieRate">
